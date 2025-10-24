@@ -1,2 +1,2 @@
 # daily_calorie_tracker
-Python CLI mini project for tracking daily calorie intake
+This project is a CLI based calorie tracker which enables uses to get his/her average calories per meal, total calories consumes and also prints a summary table consisting all the meals and their calories. The project shows the practical use of Python concepts like input/output operations, data storage using lists, arithmetic and comparison operators, conditional statements and loops. Also , this program has  Exceed Limit Warning System . 
